@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Titillium";
+  font-weight: normal;
+
+  src: url("assets/TitilliumWeb-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Titillium";
+  font-weight: bold;
+
+  src: url("assets/TitilliumWeb-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Malaga";
+  font-weight: normal;
+
+  src: url("assets/MalagaOT-Reg.otf");
+}
+
+@font-face {
+  font-family: "Malaga";
+  font-style: italic;
+
+  src: url("assets/MalagaOT-RegItalic.otf");
+}
